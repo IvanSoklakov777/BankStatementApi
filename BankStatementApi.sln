@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankStatementApi", "BankStatementApi.csproj", "{0ACFE282-8411-483E-BC92-C8C06CBF4005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Demo|Any CPU = Demo|Any CPU
+		Development|Any CPU = Development|Any CPU
+		Production|Any CPU = Production|Any CPU
+		Test|Any CPU = Test|Any CPU
+		TulaProduction|Any CPU = TulaProduction|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ACFE282-8411-483E-BC92-C8C06CBF4005}.Demo|Any CPU.ActiveCfg = Demo|Any CPU
+		{0ACFE282-8411-483E-BC92-C8C06CBF4005}.Demo|Any CPU.Build.0 = Demo|Any CPU
+		{0ACFE282-8411-483E-BC92-C8C06CBF4005}.Development|Any CPU.ActiveCfg = Development|Any CPU
+		{0ACFE282-8411-483E-BC92-C8C06CBF4005}.Development|Any CPU.Build.0 = Development|Any CPU
+		{0ACFE282-8411-483E-BC92-C8C06CBF4005}.Production|Any CPU.ActiveCfg = Production|Any CPU
+		{0ACFE282-8411-483E-BC92-C8C06CBF4005}.Production|Any CPU.Build.0 = Production|Any CPU
+		{0ACFE282-8411-483E-BC92-C8C06CBF4005}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{0ACFE282-8411-483E-BC92-C8C06CBF4005}.Test|Any CPU.Build.0 = Test|Any CPU
+		{0ACFE282-8411-483E-BC92-C8C06CBF4005}.TulaProduction|Any CPU.ActiveCfg = TulaProduction|Any CPU
+		{0ACFE282-8411-483E-BC92-C8C06CBF4005}.TulaProduction|Any CPU.Build.0 = TulaProduction|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50EAF643-1810-4845-8845-FF3BA9F596E7}
+	EndGlobalSection
+EndGlobal
